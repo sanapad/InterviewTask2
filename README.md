@@ -22,7 +22,9 @@ launch:
 java -jar ./Task2.jar
 ```
 type `3` and press `enter` for showing the list of students:
+
 ![Pasted image 20230726210527](https://github.com/sanapad/InterviewTask2/assets/28278287/ffad6f00-7e4c-4ba6-9662-42753b2cd82c)
 
 type `1` and fill in the fields for adding a new student:
+
 ![Pasted image 20230726210725](https://github.com/sanapad/InterviewTask2/assets/28278287/cc110472-9f34-4bca-94f3-c3227a370640)
